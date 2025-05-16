@@ -13,7 +13,7 @@
 - 🧱 Box model for element sizing and spacing
 - ⚙️ Support for animations, transitions, and effects
 - 🧩 Can be written as inline, internal, or external styles
-
+  
 ### 📘 Example:
 ```html
 <style>
