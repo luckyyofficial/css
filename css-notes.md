@@ -6,7 +6,7 @@
 - Separate **content** (HTML) from **design**
 - Create visually engaging and responsive web pages
 - Apply consistent styles across multiple pages
-
+  
 ### 🔑 Key Features:
 - 🎨 Control of color, fonts, spacing, and layout
 - 📱 Responsive design using media queries
@@ -28,7 +28,7 @@
   }
 </style>
 
----
+---  
 
 ## What is CSS?
 
